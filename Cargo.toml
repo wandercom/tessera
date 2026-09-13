@@ -18,7 +18,7 @@ license = "MIT OR Apache-2.0"
 rust-version = "1.75"
 repository = "https://github.com/wandercom/tessera"
 homepage = "https://github.com/wandercom/tessera"
-authors = ["Jeremy McEntire <jmc@kindex.tools>"]
+authors = ["Wander"]
 categories = ["cryptography", "data-structures"]
 keywords = ["tessera", "self-validating", "hash-chain", "privacy", "document"]
 
