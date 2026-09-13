@@ -106,4 +106,4 @@ See [SPEC.md](./SPEC.md) for the complete format specification.
 
 ## Kindex
 
-Tessera captures discoveries, decisions, and architectural rationale in [Kindex](~/Code/kindex). Search before adding. Link related concepts.
+Tessera captures discoveries, decisions, and architectural rationale in [Kindex](~/WanderRepos/repos/kindex). Search before adding. Link related concepts.
