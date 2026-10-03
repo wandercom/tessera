@@ -1,8 +1,8 @@
 # Review Standard — Tessera
 
-Tailored pointer for automated/agent code review on this repo. Governing standards live at
-`~/Code/tools/CODE-REVIEW-STANDARD.md` (evidence-producing review, seven adversarial lenses,
-verdict ladder) and `~/Code/tools/DIFF-INTENT-GATE.md` (material-change escalation for declared
+Tailored pointer for automated/agent code review on this repo. Governing standards live in the
+maintainer's tools repo: `CODE-REVIEW-STANDARD.md` (evidence-producing review, seven adversarial lenses,
+verdict ladder) and `DIFF-INTENT-GATE.md` (material-change escalation for declared
 intent). Apply both; this file adds only what's specific to Tessera.
 
 ## What this project is
